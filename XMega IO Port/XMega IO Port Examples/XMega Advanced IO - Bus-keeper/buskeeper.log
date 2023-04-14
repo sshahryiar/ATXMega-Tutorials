@@ -1,0 +1,16 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATXMEGA32A4U -RA -Y -DL -SSA -O11111115 -fo8 -N"C:\Users\Shawon\Desktop\XMega IO Port Codes\Xmega Advanced IO - Bus-keeper\buskeeper.mcpav" -BOOTOP0 -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\" -SP"C:\Users\Shawon\Desktop\XMega IO Port Codes\Xmega Advanced IO - Bus-keeper\" -IP"C:\Users\Shawon\Desktop\XMega IO Port Codes\Xmega Advanced IO - Bus-keeper\" "buskeeper.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	122	Compilation Started	ATXMEGA32A4U.c
+diagnostics: 4059	123	Compiled Successfully	ATXMEGA32A4U.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 170	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	126	All files Preprocessed in 47 ms	 
+diagnostics: 0	122	Compilation Started	buskeeper.c
+diagnostics: 40	123	Compiled Successfully	buskeeper.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 0	1144	Used RX (bytes): 5 (16%)   Free RX (bytes): 27 (84%)	Used RX (bytes): 5 (16%)   Free RX (bytes): 27 (84%)
+hint: 0	1144	Static RAM (bytes): 0   Dynamic RAM (bytes): 4096	Static RAM (bytes): 0   Dynamic RAM (bytes): 4096
+hint: 0	1144	Used ROM (bytes): 672 (2%)  Free ROM (bytes): 28000 (98%)	Used ROM (bytes): 672 (2%)  Free ROM (bytes): 28000 (98%)
+diagnostics: 0	125	Project Linked Successfully	buskeeper.mcpav
+diagnostics: 0	128	Linked in 93 ms	 
+diagnostics: 0	129	Project 'buskeeper.mcpav' completed: 1640 ms	 
+diagnostics: 0	103	Finished successfully: 19 Aug 2014, 13:49:57	buskeeper.mcpav

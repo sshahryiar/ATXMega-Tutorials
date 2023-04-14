@@ -1,0 +1,18 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATXMEGA32A4U -RA -Y -DL -SSA -O11111115 -fo10 -N"C:\Users\Shawon\Desktop\XMega IO Port Examples\Xmega Advanced IO - Wired-AND\wiredAND.mcpav" -BOOTOP0 -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\" -SP"C:\Users\Shawon\Desktop\XMega IO Port Examples\Xmega Advanced IO - Wired-AND\" -SP"C:\Users\Shawon\Desktop\XMega IO Port Codes\Xmega Advanced IO - Wired-AND\" -IP"C:\Users\Shawon\Desktop\XMega IO Port Codes\Xmega Advanced IO - Wired-AND\" -IP"C:\Users\Shawon\Desktop\XMega IO Port Examples\Xmega Advanced IO - Wired-AND\" "wiredAND.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Shawon\Desktop\XMega IO Port Codes\Xmega Advanced IO - Wired-AND'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Shawon\Desktop\XMega IO Port Codes\Xmega Advanced IO - Wired-AND'	 
+diagnostics: 0	122	Compilation Started	ATXMEGA32A4U.c
+diagnostics: 4059	123	Compiled Successfully	ATXMEGA32A4U.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 170	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	126	All files Preprocessed in 47 ms	 
+diagnostics: 0	122	Compilation Started	wiredAND.c
+diagnostics: 43	123	Compiled Successfully	wiredAND.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RX (bytes): 5 (16%)   Free RX (bytes): 27 (84%)	Used RX (bytes): 5 (16%)   Free RX (bytes): 27 (84%)
+hint: 0	1144	Static RAM (bytes): 0   Dynamic RAM (bytes): 4096	Static RAM (bytes): 0   Dynamic RAM (bytes): 4096
+hint: 0	1144	Used ROM (bytes): 694 (2%)  Free ROM (bytes): 27978 (98%)	Used ROM (bytes): 694 (2%)  Free ROM (bytes): 27978 (98%)
+diagnostics: 0	125	Project Linked Successfully	wiredAND.mcpav
+diagnostics: 0	128	Linked in 78 ms	 
+diagnostics: 0	129	Project 'wiredAND.mcpav' completed: 578 ms	 
+diagnostics: 0	103	Finished successfully: 19 Aug 2014, 23:28:50	wiredAND.mcpav
