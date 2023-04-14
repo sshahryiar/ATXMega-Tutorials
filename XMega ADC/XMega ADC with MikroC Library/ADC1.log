@@ -1,0 +1,23 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATXMEGA32A4U -RA -Y -DL -SSA -O11111115 -fo8 -N"G:\Transfer\Laptop to Desktop\Xmega Media\XMega ADC with MikroC Library\ADC1.mcpav" -BOOTOP0 -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\" -SP"G:\Transfer\Laptop to Desktop\Xmega Media\XMega ADC with MikroC Library\" -SP"C:\Users\Shawon\Desktop\Xmega Media\XMega ADC with MikroC Library\" -SP"C:\Users\Shawon\Desktop\XMega ADC with MikroC Library\" -IP"C:\Users\Shawon\Desktop\XMega ADC with MikroC Library\" -IP"C:\Users\Shawon\Desktop\Xmega Media\XMega ADC with MikroC Library\" -IP"G:\Transfer\Laptop to Desktop\Xmega Media\XMega ADC with MikroC Library\" "ADC1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_a.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Shawon\Desktop\Xmega Media\XMega ADC with MikroC Library'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Shawon\Desktop\XMega ADC with MikroC Library'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Shawon\Desktop\XMega ADC with MikroC Library'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Shawon\Desktop\Xmega Media\XMega ADC with MikroC Library'	 
+diagnostics: 0	122	Compilation Started	ATXMEGA32A4U.c
+diagnostics: 4059	123	Compiled Successfully	ATXMEGA32A4U.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 170	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	126	All files Preprocessed in 2765 ms	 
+diagnostics: 0	122	Compilation Started	ADC1.c
+diagnostics: 142	123	Compiled Successfully	ADC1.c
+hint: 30	1164	Variable 'v' has been eliminated by optimizer	ADC1.c
+hint: 100	1164	Variable 'tmp' has been eliminated by optimizer	ADC1.c
+hint: 139	1164	Variable 'm' has been eliminated by optimizer	ADC1.c
+diagnostics: 0	127	All files Compiled in 8297 ms	 
+hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
+hint: 0	1144	Static RAM (bytes): 3   Dynamic RAM (bytes): 4093	Static RAM (bytes): 3   Dynamic RAM (bytes): 4093
+hint: 0	1144	Used ROM (bytes): 3838 (13%)  Free ROM (bytes): 24834 (87%)	Used ROM (bytes): 3838 (13%)  Free ROM (bytes): 24834 (87%)
+diagnostics: 0	125	Project Linked Successfully	ADC1.mcpav
+diagnostics: 0	128	Linked in 15844 ms	 
+diagnostics: 0	129	Project 'ADC1.mcpav' completed: 28672 ms	 
+diagnostics: 0	103	Finished successfully: 30 Oct 2014, 14:20:44	ADC1.mcpav

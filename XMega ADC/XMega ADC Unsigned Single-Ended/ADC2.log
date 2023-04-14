@@ -1,0 +1,21 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATXMEGA32A4U -RA -Y -DL -SSA -O11111115 -fo8 -N"C:\Users\Shawon\Desktop\Xmega Media\XMega ADC Unsigned Single-Ended\ADC2.mcpav" -BOOTOP0 -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\" -SP"C:\Users\Shawon\Desktop\Xmega Media\XMega ADC Unsigned Single-Ended\" -SP"C:\Users\Shawon\Desktop\XMega ADC Unsigned Single-Ended\" -IP"C:\Users\Shawon\Desktop\XMega ADC Unsigned Single-Ended\" -IP"C:\Users\Shawon\Desktop\Xmega Media\XMega ADC Unsigned Single-Ended\" "ADC2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Shawon\Desktop\XMega ADC Unsigned Single-Ended'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Shawon\Desktop\XMega ADC Unsigned Single-Ended'	 
+diagnostics: 0	122	Compilation Started	ATXMEGA32A4U.c
+diagnostics: 4059	123	Compiled Successfully	ATXMEGA32A4U.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 170	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	126	All files Preprocessed in 78 ms	 
+diagnostics: 0	122	Compilation Started	ADC2.c
+diagnostics: 209	123	Compiled Successfully	ADC2.c
+hint: 37	1164	Variable 'v' has been eliminated by optimizer	ADC2.c
+hint: 167	1164	Variable 'tmp' has been eliminated by optimizer	ADC2.c
+hint: 206	1164	Variable 'm' has been eliminated by optimizer	ADC2.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
+hint: 0	1144	Static RAM (bytes): 3   Dynamic RAM (bytes): 4093	Static RAM (bytes): 3   Dynamic RAM (bytes): 4093
+hint: 0	1144	Used ROM (bytes): 4006 (14%)  Free ROM (bytes): 24666 (86%)	Used ROM (bytes): 4006 (14%)  Free ROM (bytes): 24666 (86%)
+diagnostics: 0	125	Project Linked Successfully	ADC2.mcpav
+diagnostics: 0	128	Linked in 265 ms	 
+diagnostics: 0	129	Project 'ADC2.mcpav' completed: 937 ms	 
+diagnostics: 0	103	Finished successfully: 28 Oct 2014, 23:05:14	ADC2.mcpav

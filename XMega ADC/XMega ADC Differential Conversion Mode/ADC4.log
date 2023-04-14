@@ -1,0 +1,18 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATXMEGA32A4U -RA -Y -DL -SSA -O11111115 -fo8 -N"C:\Users\Shawon\Desktop\Xmega Media\XMega ADC Differential Conversion Mode\ADC4.mcpav" -BOOTOP0 -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\" -SP"C:\Users\Shawon\Desktop\Xmega Media\XMega ADC Differential Conversion Mode\" -SP"C:\Users\Shawon\Desktop\Xmega Media\XMega ADC Signed Single-Ended\" -IP"C:\Users\Shawon\Desktop\Xmega Media\XMega ADC Signed Single-Ended\" "ADC4.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+diagnostics: 0	122	Compilation Started	ATXMEGA32A4U.c
+diagnostics: 4059	123	Compiled Successfully	ATXMEGA32A4U.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 170	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	126	All files Preprocessed in 62 ms	 
+diagnostics: 0	122	Compilation Started	ADC4.c
+diagnostics: 200	123	Compiled Successfully	ADC4.c
+hint: 36	1164	Variable 'v' has been eliminated by optimizer	ADC4.c
+hint: 166	1164	Variable 'tmp' has been eliminated by optimizer	ADC4.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
+hint: 0	1144	Static RAM (bytes): 3   Dynamic RAM (bytes): 4093	Static RAM (bytes): 3   Dynamic RAM (bytes): 4093
+hint: 0	1144	Used ROM (bytes): 3436 (12%)  Free ROM (bytes): 25236 (88%)	Used ROM (bytes): 3436 (12%)  Free ROM (bytes): 25236 (88%)
+diagnostics: 0	125	Project Linked Successfully	ADC4.mcpav
+diagnostics: 0	128	Linked in 125 ms	 
+diagnostics: 0	129	Project 'ADC4.mcpav' completed: 688 ms	 
+diagnostics: 0	103	Finished successfully: 27 Oct 2014, 23:18:25	ADC4.mcpav
