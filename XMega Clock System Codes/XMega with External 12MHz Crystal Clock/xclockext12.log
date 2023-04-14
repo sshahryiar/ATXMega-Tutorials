@@ -1,0 +1,14 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATXMEGA32A4U -DL -SSA -O11111115 -fo0.75 -N"H:\Current Works\Transfer\Desktop to Laptop\XMega Clocks\XMega with External 12MHz Crystal Clock\xclockext12.mcpav" -BOOTOP0 -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\" -SP"H:\Current Works\Transfer\Desktop to Laptop\XMega Clocks\XMega with External 12MHz Crystal Clock\" "xclockext12.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 170	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	126	All files Preprocessed in 47 ms	 
+diagnostics: 0	122	Compilation Started	xclockext12.c
+diagnostics: 44	123	Compiled Successfully	xclockext12.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RX (bytes): 4 (12%)   Free RX (bytes): 28 (88%)	Used RX (bytes): 4 (12%)   Free RX (bytes): 28 (88%)
+hint: 0	1144	Static RAM (bytes): 0   Dynamic RAM (bytes): 4096	Static RAM (bytes): 0   Dynamic RAM (bytes): 4096
+hint: 0	1144	Used ROM (bytes): 630 (2%)  Free ROM (bytes): 28042 (98%)	Used ROM (bytes): 630 (2%)  Free ROM (bytes): 28042 (98%)
+diagnostics: 0	125	Project Linked Successfully	xclockext12.mcpav
+diagnostics: 0	128	Linked in 891 ms	 
+diagnostics: 0	129	Project 'xclockext12.mcpav' completed: 1172 ms	 
+diagnostics: 0	103	Finished successfully: 28 May 2014, 09:56:59	xclockext12.mcpav

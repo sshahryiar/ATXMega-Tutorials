@@ -1,0 +1,28 @@
+main
+	setup_interrupts
+		clear_global_interrupt
+	setup_clock
+		clear_global_interrupt
+	setup_io
+		set_global_interrupt
+	setup_lcd
+		Lcd_Init
+			Delay_5500us
+			Delay_1us
+		Lcd_Cmd
+			Delay_1us
+			Delay_5500us
+			Delay_50us
+	Lcd_Cmd
+	Lcd_Out
+		Lcd_Cmd
+		Lcd_Chr_CP
+			Lcd_Cmd
+PORTA_INT1_ISR
+	Lcd_Cmd
+	Lcd_Out
+	__CC2DW
+PORTA_INT0_ISR
+	Lcd_Cmd
+	Lcd_Out
+	__CC2DW
