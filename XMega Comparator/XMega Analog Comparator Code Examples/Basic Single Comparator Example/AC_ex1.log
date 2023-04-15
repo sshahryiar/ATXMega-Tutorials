@@ -1,0 +1,17 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATXMEGA32A4U -RA -Y -DL -SSA -O11111114 -fo8 -N"C:\Users\Shawon\Desktop\XMega Media\Basic Single Comparator Example\AC_ex1.mcpav" -BOOTOP0 -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\LTE64KW\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\" -SP"C:\Users\Shawon\Desktop\XMega Media\Basic Single Comparator Example\" -SP"C:\Users\Shawon & Nipa\Desktop\XMega Media\Basic Single Comparator Example\" -IP"C:\Users\Shawon & Nipa\Desktop\XMega Media\Basic Single Comparator Example\" -IP"C:\Users\Shawon\Desktop\XMega Media\Basic Single Comparator Example\" "AC_ex1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Shawon & Nipa\Desktop\XMega Media\Basic Single Comparator Example'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Shawon & Nipa\Desktop\XMega Media\Basic Single Comparator Example'	 
+diagnostics: 0	122	Compilation Started	ATXMEGA32A4U.c
+diagnostics: 4125	123	Compiled Successfully	ATXMEGA32A4U.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 170	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	AC_ex1.c
+diagnostics: 70	123	Compiled Successfully	AC_ex1.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RX (bytes): 5 (16%)   Free RX (bytes): 27 (84%)	Used RX (bytes): 5 (16%)   Free RX (bytes): 27 (84%)
+hint: 0	1144	Static RAM (bytes): 0   Dynamic RAM (bytes): 4096	Static RAM (bytes): 0   Dynamic RAM (bytes): 4096
+hint: 0	1144	Used ROM (bytes): 716 (2%)  Free ROM (bytes): 27956 (98%)	Used ROM (bytes): 716 (2%)  Free ROM (bytes): 27956 (98%)
+diagnostics: 0	125	Project Linked Successfully	AC_ex1.mcpav
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'AC_ex1.mcpav' completed: 328 ms	 
+diagnostics: 0	103	Finished successfully: 05 Jul 2015, 11:02:36	AC_ex1.mcpav

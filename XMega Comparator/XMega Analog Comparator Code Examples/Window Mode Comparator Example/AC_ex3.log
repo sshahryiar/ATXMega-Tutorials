@@ -1,0 +1,16 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATXMEGA32A4U -RA -Y -DL -SSA -O11111115 -fo8 -N"C:\Users\Shawon & Nipa\Desktop\XMega Media\Window Mode Comparator Example\AC_ex3.mcpav" -BOOTOP0 -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\" -SP"C:\Users\Shawon & Nipa\Desktop\XMega Media\Window Mode Comparator Example\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\LTE64KW\" -IP"C:\Users\Shawon & Nipa\Desktop\XMega Media\Window Mode Comparator Example\" "AC_ex3.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	122	Compilation Started	ATXMEGA32A4U.c
+diagnostics: 4125	123	Compiled Successfully	ATXMEGA32A4U.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 170	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	AC_ex3.c
+diagnostics: 105	123	Compiled Successfully	AC_ex3.c
+hint: 90	1164	Variable 'reg_val' has been eliminated by optimizer	AC_ex3.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RX (bytes): 6 (19%)   Free RX (bytes): 26 (81%)	Used RX (bytes): 6 (19%)   Free RX (bytes): 26 (81%)
+hint: 0	1144	Static RAM (bytes): 0   Dynamic RAM (bytes): 4096	Static RAM (bytes): 0   Dynamic RAM (bytes): 4096
+hint: 0	1144	Used ROM (bytes): 804 (3%)  Free ROM (bytes): 27868 (97%)	Used ROM (bytes): 804 (3%)  Free ROM (bytes): 27868 (97%)
+diagnostics: 0	125	Project Linked Successfully	AC_ex3.mcpav
+diagnostics: 0	128	Linked in 124 ms	 
+diagnostics: 0	129	Project 'AC_ex3.mcpav' completed: 795 ms	 
+diagnostics: 0	103	Finished successfully: 04 Jul 2015, 21:22:43	AC_ex3.mcpav

@@ -1,0 +1,5 @@
+main
+	setup
+		setup_clock
+		setup_GPIO
+		setup_AC
